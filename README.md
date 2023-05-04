@@ -15,7 +15,7 @@ To run the code, simply execute the `syn.py` file in a terminal or command promp
 By default, the code will target the IP address `192.168.0.1` on port `80`. You can change the target IP address and port by modifying the code in the `syn.py` file.
 
 ## Youtube 
-[Click here to watch the video](https://youtu.be/stTFWK_d9C8)
+[Click here to watch the video on YouTube](https://youtu.be/stTFWK_d9C8)
 
 ## License
 
